@@ -1,0 +1,23 @@
+{
+  "name": "kandrregistries",
+  "description": "registry website",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "start",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosenbr/kandrregistries.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosenbr/kandrregistries/issues"
+  },
+  "homepage": "https://github.com/rosenbr/kandrregistries#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}

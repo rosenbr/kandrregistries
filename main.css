@@ -1,0 +1,46 @@
+body {
+    background-image: linear-gradient(to bottom right, #A3DEFF, #F9FFF8, #FFEDF9);
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin: 100px;
+    padding: 50px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Butterfly Kids', cursive;
+    font-size: xx-large;
+}
+
+.body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Butterfly Kids', cursive;
+    font-size: x-large;
+    text-align: justify;
+    text-align-last: center;
+}
+
+.header__top {
+    margin-bottom: 0px;
+}
+
+.header__bottom {
+    margin-top: 0px;
+}
+
+p {
+    display: flex;
+    text-align: justify;
+    text-align-last: center;
+}
