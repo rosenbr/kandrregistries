@@ -39,6 +39,11 @@ body {
     margin-top: 0px;
 }
 
+.email {
+    font-family: 'Tangerine', serif;
+    font-size: 40px;
+}
+
 p {
     display: flex;
     text-align: justify;
